@@ -20,3 +20,8 @@ integers.
 
 4)Call Priortizer Module: This module feeds the detected emotions from the input calls into an algorithm that prioritises the
 calls depending on the established use case.
+
+
+![img2](https://github.com/deep0307/Intelligent-Call-Prioritization-using-SER/assets/52921002/35ad54ae-8ded-41b3-ae71-00e5418cb0b0)
+
+Call Prioritation  Module
