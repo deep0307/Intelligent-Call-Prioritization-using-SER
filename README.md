@@ -10,8 +10,7 @@ Flowchart Diagram of Call Processing and Prioritization.
 
 The project contains 3 modules- 
 
-
-1) Audio Pre-Processer Module: This module receives the raw audio input and its objective is to clean the audio and extract the
+1)Audio Pre-Processer Module: This module receives the raw audio input and its objective is to clean the audio and extract the
 features of the audio input which will further be used by the SER module for emotion detection.
 
 2)Speech Emotion Recognition Module: In this module, the audio input’s extracted feature set is analyzed to detect the emotion of the caller.
