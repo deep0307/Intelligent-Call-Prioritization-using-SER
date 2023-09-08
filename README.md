@@ -1,7 +1,5 @@
 # Intelligent-Call-Prioritization-using-SER
 
-To detect emotion from audio cues and based on prosody and transcribed text from audio to thereby prioritize the calls in the waiting queue of a call center.
-
 
 ![img1](https://github.com/deep0307/Intelligent-Call-Prioritization-using-SER/assets/52921002/33b0f3ca-47fe-4566-b5aa-746efe7b3dff)
 
